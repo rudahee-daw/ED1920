@@ -48,16 +48,25 @@ Se entiende por **validación** al proceso por el cual se comprueba que el objet
 
 Se construye un prototipo, el cual es evaluado por el cliente para una retroalimentación; gracias a ésta se refinan los requisitos del software que se desarrollará. El prototipo se ajusta para satisfacer las necesidades del cliente. Esto permite que al mismo tiempo el desarrollador entienda mejor lo que se debe hacer y el cliente vea resultados a corto plazo.
 
+
 #### 7. Explica como funciona el modelo espiral cuando se aplica al desarrollo orientado a objetos.
 
-
+El modelo en espiral es un prototipo iterativo. En cada iteracion, se presentan pequeños cambios al que cliente que proporciona un feedback. El feedback se examina para ver si representan progresos hacia el objetivo. 
 
 #### 8. ¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?
 
+Existen 4 principios en el manifiesto agil:
 
+* Valoramos más a los individuos y su interacción que a los procesos y las herramientas. 
+
+* Valoramos más el software que funciona que la documentación exhaustiva.
+
+* Valoramos más la colaboración con el cliente que la negociación contractual.
+
+* Valoramos más la respuesta al cambio que el seguimiento de un plan
 
 #### 9. ¿Qué es una historia de usuario?
-
+Una *historia de usuario* es explicar un requisito en una o dos frases utilizando el lenguaje común.
 
 #### 10. Haz un resumen sobre que se entiende por Lean software y qué principios lo rigen.
 
