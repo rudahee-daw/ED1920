@@ -57,40 +57,89 @@ El modelo en espiral es un prototipo iterativo. En cada iteracion, se presentan 
 
 Existen 4 principios en el manifiesto agil:
 
-* Valoramos más a los individuos y su interacción que a los procesos y las herramientas. 
+- Valoramos más a los individuos y su interacción que a los procesos y las herramientas. 
 
-* Valoramos más el software que funciona que la documentación exhaustiva.
+- Valoramos más el software que funciona que la documentación exhaustiva.
 
-* Valoramos más la colaboración con el cliente que la negociación contractual.
+- Valoramos más la colaboración con el cliente que la negociación contractual.
 
-* Valoramos más la respuesta al cambio que el seguimiento de un plan
+- Valoramos más la respuesta al cambio que el seguimiento de un plan
 
 #### 9. ¿Qué es una historia de usuario?
 Una *historia de usuario* es explicar un requisito en una o dos frases utilizando el lenguaje común.
 
 #### 10. Haz un resumen sobre que se entiende por Lean software y qué principios lo rigen.
 
+La idea principal de Lean Software consiste en eliminar el trabajo que no aporta valor al resultado final.
+
+Estos 7 principios rigen el "Lean Software".
+- Eliminar desperdicios/restos
+- Amplificar el aprendizaje
+- Tomar decisiones lo más tarde posible
+- Entregar lo antes posible
+- Potenciar el equipo
+- Crear la integridad
+- Visualizar todo el conjunto
+
 #### 11. KANBAN. Estudia las ventajas e inconvenientes de tener una pizarra web digital para la metodología Kanban.
+
+- Ventajas:
+    - Control del estado y del rendimiento de cada tarea
+    - No necesita software adicional
+    - Distribucion de tareas simplificado
+    - Facilidad para añadir mejoras
+ - Inconvenientes:
+    - Dificultad para implementar en grandes proyectos
+    - Dificultad a la hora de preveer posibles problemas
 
 #### 12. KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM.
 
+En Kanban se usa un tablero en el cual vamos a tener una serie de tarjetas, cada tarjeta tendra escrita una tarea dentro de un proyecto, tambien vamos a tener dibujadas una serie de posiciones por las que las tarjetas se van a ir moviendo, segun en el estado de desarrollo en el que se encuentren. Esto nos va a permitir, ver facilmente cómo evoluciona el proyecto.
+
+ - En Scrum existen los roles, en Kanban no existen
+ - Scrum limita las teras en paralelo, en Kanban no
+ - Scrum traba de medir el tiempo y el esfuerzo de cada tarea, en Kaban no se mide.
+ - En Scrum se realizan una serie de reuniones, en Kanban no se hacen.
+
 #### 13. SCRUM. Explica como funciona Scrum.
+
+Scrum es un método para trabajar en equipo a partir de iteraciones. Al final de cada iteracion, se va revisando el trabajo de la iteracion anterior. En función del trabajo revisado, se priorizan y planifican las actividades en las que invertiremos nuestros recursos de la siguiente iteracion
 
 #### 14. SCRUM. Define los siguientes términos:
 
-* Product backlog.
-* Sprint backlog.
+- Product backlog: Listado de todas las tareas que se pretenden hacer durante el desarrollo de un proyecto.
+
+- Sprint backlog: conjunto de objetivos del product backlog para la iteración actual.
 
 #### 15. SCRUM. En la terminología Scrum qué terminos se utilizan como sinónimo de:
 
-* Jefe de proyecto.
-* Cliente.
-* Equipo de desarrollo.
+- Jefe de proyecto: Scrum Master
+- Cliente: Product Owner
+- Equipo de desarrollo: Development Team
 
 #### 16. SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum.
 
+- Cultura de empresa basada en trabajo en equipo
+- Compromiso del cliente, de la empresa y del equipo de desarrolo
+- Relacion Proveedor-Cliente basada en la colaboracion y la transparencia
+- Facilidad para realizar cambios en el proyecto
+- Equipos de trabajo pequeños
+- Estabilidad de los miembros del equipo
+- Trabajo en espacios comunes
+
 #### 17. XP. Explica los 5 valores de la Programación Extrema.
 
+- Simplicidad: haremos lo que sea necesario y solicitado, pero no más. 
+- Comunicación: Todos somos parte del equipo y nos comunicamos todos los días. 
+- Retroalimentacion: Tomaremos en serio cada compromiso de iteración al entregar software de trabajo. 
+- Respeto: Todos dan y sienten el respeto que merecen como un valioso miembro del equipo.
+- Valor: diremos la verdad sobre el progreso y las estimaciones.
+
 #### 18. XP. ¿Cuáles son las características distintivas de XP frente a otras metodologías ágiles? Explícalas.
+
+- Todo software debe tener una buena documentación.
+- Debe existir una interacción constante entre el cliente y el equipo de desarrollo.
+- Planificación flexible y abierta.
+- Rápida respuesta a cambios.
 
 
